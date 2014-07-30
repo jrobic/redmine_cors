@@ -15,7 +15,7 @@ end
 
 Redmine::Plugin.register :redmine_cors do
   name 'Redmine CORS'
-  author 'Marco Vito Moscaritolo && Jonathan Robic'
+  author 'Marco Vito Moscaritolo (modified by Jonathan Robic)'
   description 'This is a plugin for Redmine that make possible CORS request.'
   url 'https://github.com/jrobic/redmine_cors'
   author_url 'http://jonathanrobic.fr/'
